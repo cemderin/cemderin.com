@@ -1,5 +1,6 @@
 const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
+const SVGSpritemapPlugin = require('svg-spritemap-webpack-plugin');
 
 module.exports = {
 
@@ -14,7 +15,8 @@ module.exports = {
     plugins: [
         new HtmlWebpackPlugin({
             template: './src/index.pug'
-        })
+        }),
+        new SVGSpritemapPlugin('./src/svg/**/*.svg')
     ],
     module: {
         rules: [

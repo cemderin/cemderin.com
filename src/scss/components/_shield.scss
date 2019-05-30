@@ -29,10 +29,20 @@
 
   @include mq($from: tablet) {
     padding: 1em 0;
-    font-size: 1.5em;
+    font-size: 1em;
   }
 
   @include mq($from: desktop) {
-    font-size: 3em;
+    // font-size: 3em;
   }
+}
+
+.shield__link-list {
+  list-style-type: none;
+}
+
+.shield__link-list__item {
+  display:inline-block;
+  margin: 0 2em;
+  font-weight: bold;
 }
