@@ -42,7 +42,11 @@
 }
 
 .shield__link-list__item {
-  display:inline-block;
   margin: 0 2em;
   font-weight: bold;
+  padding: 0.75em 0;
+
+  @include mq($from: desktop) {
+    display:inline-block;
+  }
 }
