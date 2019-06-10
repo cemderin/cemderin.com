@@ -39,6 +39,15 @@
 
 .shield__link-list {
   list-style-type: none;
+  margin-bottom: 1em;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.shield__link-list--secondary {
+  font-size: 0.9em;
 }
 
 .shield__link-list__item {
