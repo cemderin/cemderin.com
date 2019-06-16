@@ -1,4 +1,5 @@
 [_sidebar]: #null (false)
+[_pagetitle]: #null (Cem Derin) 
 
 I am a technology generalist from Düsseldorf, Germany. 
 

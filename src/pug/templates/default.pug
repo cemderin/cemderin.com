@@ -1,7 +1,10 @@
 doctype html
 html
     head
-        title= pageTitle
+        if pagetitle
+            title= [pagetitle, 'cemderin.com'].join(' - ')
+        else
+            title cemderin.com
         link(rel="stylesheet" href=baseDir + "index.css" type="text/css")
         meta(name="description", content=description)
         meta( name='viewport', content='width=device-width, initial-scale=1' )
