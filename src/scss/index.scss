@@ -1,8 +1,14 @@
-@import "~reset.css/reset.css";
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700,900&display=swap');
+@import "settings";
 
-@import "utils/mq";
+@import "../../node_modules/node-reset-scss/scss/reset";
+@import "../../node_modules/sass-mq/mq";
 
+@import "elements/container";
+@import "elements/aside";
 @import "elements/body";
-@import "elements/a";
-
-@import "components/shield";
+@import "elements/footer";
+@import "elements/header";
+@import "elements/links";
+@import "elements/main";
+@import "elements/paragraph";
