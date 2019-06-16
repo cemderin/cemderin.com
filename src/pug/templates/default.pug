@@ -1,0 +1,19 @@
+doctype html
+html
+    head
+        title= pageTitle
+        link(rel="stylesheet" href=baseDir + "index.css" type="text/css")
+        meta(name="description", content=description)
+        meta( name='viewport', content='width=device-width, initial-scale=1' )
+
+    body
+        include ../elements/header
+
+        if(sidebar !== 'false')
+            include ../elements/aside
+
+        include ../elements/main
+
+        include ../elements/footer
+
+        script(src=baseDir + "index.js" type="text/javascript")

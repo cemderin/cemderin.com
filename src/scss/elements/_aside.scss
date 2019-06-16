@@ -1,0 +1,6 @@
+aside {
+  @extend .container;
+  @include mq($from: desktop) {
+    flex: 0 0 25%;
+  }
+}

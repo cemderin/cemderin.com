@@ -2830,6 +2830,11 @@ node-pre-gyp@^0.12.0:
     semver "^5.3.0"
     tar "^4"
 
+node-reset-scss@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/node-reset-scss/-/node-reset-scss-1.0.1.tgz#980b63cc7a48b2519cca81074ae22deeb8736ba2"
+  integrity sha1-mAtjzHpIslGcyoEHSuIt7rhza6I=
+
 node-sass@^4.12.0:
   version "4.12.0"
   resolved "https://registry.yarnpkg.com/node-sass/-/node-sass-4.12.0.tgz#0914f531932380114a30cc5fa4fa63233a25f017"
@@ -3673,6 +3678,11 @@ sass-graph@^2.2.4:
     lodash "^4.0.0"
     scss-tokenizer "^0.2.3"
     yargs "^7.0.0"
+
+sass-mq@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/sass-mq/-/sass-mq-5.0.0.tgz#7e8a8eb0f289591b3521549266f0ff923772809d"
+  integrity sha512-GCN6wGY+l4n10mASeMe2vqISvEEFjv6/NVcywaMU9saZgzw+DKM+fUUAnv07LlxXvDdnHSRf5jGJ10u/iF1BKA==
 
 sax@^1.2.4:
   version "1.2.4"
