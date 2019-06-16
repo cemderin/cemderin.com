@@ -1,5 +1,14 @@
-@import url('https://fonts.googleapis.com/css?family=Montserrat:500,900&display=swap');
-
 body {
-  font-family: "Montserrat", serif;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 1.25em;
+  padding: $padding 0;
+  color: lighten(#000, 20);
+
+  @include mq($from: desktop) {
+    display:flex;
+    flex-flow: row wrap;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
 }
