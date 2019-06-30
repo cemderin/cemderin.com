@@ -5,6 +5,8 @@ This article is kind of a collection for different workshop formats.
 Some will be very general, while others can handle a very specific topic.
 This article is considered as to be continued.
 
+Initially released: 30th June 2019
+
 ## Warm ups
 ### Articulate expectations
 Good for introduction of all attendess. Ask all participants to specify
