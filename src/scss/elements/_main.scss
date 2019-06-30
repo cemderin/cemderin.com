@@ -3,4 +3,9 @@ main {
   @include mq($from: desktop) {
     flex: 1 1 auto;
   }
+
+  h1 {
+    font-weight: bold;
+    margin-bottom: 1em;
+  }
 }
