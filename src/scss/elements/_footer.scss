@@ -11,3 +11,21 @@ footer {
     margin-right: 1em;
   }
 }
+
+.footer__meta-links {
+  text-align: right;
+  opacity: 0.5;
+
+  @include mq($from: desktop) {
+    float:right;
+  }
+
+  a {
+    display:inline-block;
+    margin-left: 1em;
+
+    &:first-child {
+      margin-right: 0;
+    }
+  }
+}
