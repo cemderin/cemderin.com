@@ -1,5 +1,6 @@
 [_sidebar]: #null (false)
 [_pagetitle]: #null (Cem Derin) 
+[_description]: #null (I am a technology generalist from Düsseldorf, Germany.) 
 
 I am a technology generalist from Düsseldorf, Germany. 
 
@@ -11,6 +12,9 @@ If you are interested in business contact, please use [LinkedIn](https://www.lin
 
 If you prefer to use plain old emails, just send your thoughts to cemyderin@gmail.com.
 
+## Blog
+- [2019-07-06: Starting a statically generated Blog](blog/2019-07-06-starting-a-statically-generated-blog.md)
+
 ## Articles
-[Workshop formats](articles/workshop-formats.md) 
+- [Workshop formats](articles/workshop-formats.md)
 

@@ -6,7 +6,7 @@
   "author": "Cem Derin <cemyderin@gmail.com>",
   "license": "private",
   "dependencies": {
-    "@cemderin/static-site-generator": "^0.0.0",
+    "@cemderin/static-site-generator": "^0.0.3",
     "node-reset-scss": "^1.0.1",
     "sass-mq": "^5.0.0"
   },
