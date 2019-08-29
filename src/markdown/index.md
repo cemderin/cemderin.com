@@ -13,6 +13,7 @@ If you are interested in business contact, please use [LinkedIn](https://www.lin
 If you prefer to use plain old emails, just send your thoughts to cemyderin@gmail.com.
 
 ## Blog
+- [2019-08-29: Reboot a long forgotten hobby](blog/2019-08-29-reboot-a-long-forgotten-hobby.md)
 - [2019-07-06: Starting a statically generated Blog](blog/2019-07-06-starting-a-statically-generated-blog.md)
 
 ## Articles
